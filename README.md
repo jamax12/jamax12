@@ -29,9 +29,9 @@
 <div align="center">
 
 ╔═══════════════════════════════════════════════════════════════╗
-║  "Building secure systems while breaking insecure ones"      ║
+║  "Building secure systems while breaking insecure ones"       ║
 ║                                                               ║
-║  🛡️  DEFEND  •  🔍  DISCOVER  •  🚀  DEVELOP  •  🔒  SECURE   ║
+║  🛡️  DEFEND  •  🔍  DISCOVER  •  🚀  DEVELOP  •  🔒  SECURE ║
 ╚═══════════════════════════════════════════════════════════════╝
 </div>
 
